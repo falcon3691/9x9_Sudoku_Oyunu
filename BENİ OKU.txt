@@ -1,0 +1,9 @@
+# 9x9 Sudoku Oyunu
+-Dosyları indirdikten sonra bir klasöre kopyalayıp, Visual Studio'da o klasörü açın.
+-Çözüm gezgininde "9x9 sudoku oyunu.sln" dosyasını çift tıklayıp açın.
+-Çözüm gezgininde "Kaynak Dosyalar" kalsörünün altında "9x9 sudoku oyunu.cpp" dosyasını çift tıklayıp açtıktan sonra uygulamayı başlatabilirsiniz.
+
+Nasıl oynanır
+--------------
+-Bir sayıyı değiştirmek için "W, A, S, D" tuşları ile hareket edilir ve istenilen konuma gelindiğinde, istediğimiz bir sayıya basarız.
+-Bir sayıyı değiştirmek istediğimizde, o sayının üzeine gelip "0(SIFIR)" tuşuna basılır ve seçilen sayı yerine "X" gelir. Bundan sonra istediğimiz sayıya basarız.
